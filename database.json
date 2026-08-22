@@ -1,0 +1,150 @@
+{
+  "users": {
+    "11": {
+      "phone": "11",
+      "password": "11",
+      "username": "11",
+      "balance": 443.49999999999966,
+      "isAdmin": false,
+      "notifications": [
+        {
+          "id": 1787260656619,
+          "text": "🎉 Welcome! You have received a ₹100 sign up bonus. (Cannot be withdrawn, use for betting!)",
+          "time": "2:17:36 AM"
+        }
+      ],
+      "history": [
+        {
+          "type": "Game Win",
+          "text": "Won ₹201.00 net profit ₹101.00 at 2.01x (Bet: ₹100.00)",
+          "time": "8/22/2026, 6:01:47 PM",
+          "net": "+₹101.00",
+          "multiplier": "2.01x"
+        },
+        {
+          "type": "Game Loss",
+          "text": "Lost bet of ₹100.00 at crash 3.07x",
+          "time": "8/22/2026, 5:59:51 PM",
+          "net": "-₹100.00",
+          "multiplier": "3.07x"
+        },
+        {
+          "type": "Game Loss",
+          "text": "Lost bet of ₹100.00 at crash 1.71x",
+          "time": "8/22/2026, 5:55:24 PM",
+          "net": "-₹100.00",
+          "multiplier": "1.71x"
+        },
+        {
+          "type": "Game Loss",
+          "text": "Lost bet of ₹100.00 at crash 3.63x",
+          "time": "8/22/2026, 5:52:28 PM",
+          "net": "-₹100.00",
+          "multiplier": "3.63x"
+        },
+        {
+          "type": "Game Win",
+          "text": "Won ₹104.00 net profit ₹4.00 at 1.04x (Bet: ₹100.00)",
+          "time": "8/22/2026, 3:21:30 AM",
+          "net": "+₹4.00",
+          "multiplier": "1.04x"
+        },
+        {
+          "type": "Game Win",
+          "text": "Won ₹120.00 net profit ₹20.00 at 1.20x (Bet: ₹100.00)",
+          "time": "8/21/2026, 5:14:49 AM",
+          "net": "+₹20.00",
+          "multiplier": "1.20x"
+        },
+        {
+          "type": "Game Win",
+          "text": "Won ₹126.00 net profit ₹26.00 at 1.26x (Bet: ₹100.00)",
+          "time": "8/21/2026, 4:02:04 AM",
+          "net": "+₹26.00",
+          "multiplier": "1.26x"
+        },
+        {
+          "type": "Game Win",
+          "text": "Won ₹147.00 net profit ₹47.00 at 1.47x (Bet: ₹100.00)",
+          "time": "8/21/2026, 3:54:30 AM",
+          "net": "+₹47.00",
+          "multiplier": "1.47x"
+        },
+        {
+          "type": "Game Win",
+          "text": "Won ₹214.00 net profit ₹114.00 at 2.14x (Bet: ₹100.00)",
+          "time": "8/21/2026, 3:51:36 AM",
+          "net": "+₹114.00",
+          "multiplier": "2.14x"
+        },
+        {
+          "type": "Game Win",
+          "text": "Won ₹149.00 net profit ₹49.00 at 1.49x (Bet: ₹100.00)",
+          "time": "8/21/2026, 3:46:53 AM",
+          "net": "+₹49.00",
+          "multiplier": "1.49x"
+        },
+        {
+          "type": "Game Win",
+          "text": "Won ₹140.00 net profit ₹40.00 at 1.40x (Bet: ₹100.00)",
+          "time": "8/21/2026, 3:32:10 AM",
+          "net": "+₹40.00",
+          "multiplier": "1.40x"
+        },
+        {
+          "type": "Game Win",
+          "text": "Won ₹112.50 net profit ₹12.50 at 1.12x (Bet: ₹100.00)",
+          "time": "8/21/2026, 3:25:30 AM",
+          "net": "+₹12.50",
+          "multiplier": "1.12x"
+        },
+        {
+          "type": "Game Win",
+          "text": "Won ₹117.50 at 1.17x (Bet: ₹100.00)",
+          "time": "8/21/2026, 3:21:19 AM",
+          "net": "+₹17.50",
+          "multiplier": "1.17x"
+        },
+        {
+          "type": "Game Win",
+          "text": "Won ₹112.50 at 1.12x (Bet: ₹100.00)",
+          "time": "8/21/2026, 3:20:21 AM",
+          "net": "+₹12.50",
+          "multiplier": "1.12x"
+        }
+      ]
+    },
+    "0986677098": {
+      "phone": "0986677098",
+      "password": "Lepli0098",
+      "balance": 100000,
+      "isAdmin": true,
+      "username": "Admin",
+      "notifications": [],
+      "history": []
+    },
+    "+910986677098": {
+      "phone": "+910986677098",
+      "password": "Lepli0098",
+      "balance": 100000,
+      "isAdmin": true,
+      "username": "Admin",
+      "notifications": [
+        {
+          "id": 1,
+          "text": "🛡️ Admin Account Initialized.",
+          "time": "12:00 PM"
+        }
+      ],
+      "history": []
+    }
+  },
+  "deposits": [],
+  "withdrawals": [],
+  "settings": {
+    "bankName": "HDFC BANK",
+    "accountName": "SKY ROCKET ENTERPRISES",
+    "accountNumber": "50200012345678",
+    "ifscCode": "HDFC0001234"
+  }
+}
